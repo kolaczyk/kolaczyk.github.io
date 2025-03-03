@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Eric D. Kolaczyk"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eric D. Kolaczyk"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://kolaczyk.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kolaczyk/kolaczyk.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "17-EricKolaczykB.png"
-  name             : "Your Sidebar Name"
+  name             : "Eric Kolaczyk"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a Professor of Statistics in the Department of Mathematics and Statistics at McGill University, where I also serve as the inaugural director of the new Computational and Data Systems Initiative (CDSI)."
   location         : "Montreal, Quebec, Canada"
   employer         : "McGill University"
   uri              : # URL
