@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at [McGill University](https://www.mcgill.ca/) in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/), and the inaugural director of the [McGill Computational and Data Systems Initiative (CDSI)](https://www.mcgill.ca/cdsi/). I am also an associate academic member at [Mila, The Quebec AI Institute](https://mila.quebec/en).
+I am a professor at [McGill University](https://www.mcgill.ca/) in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/), and the inaugural director of the [McGill Computational and Data Systems Institute (CDSI)](https://www.mcgill.ca/cdsi/). I am also an associate academic member at [Mila, The Quebec AI Institute](https://mila.quebec/en).
 
 My research is focused on how statistical and machine learning theory and methods can support human endeavours enabled by computing and engineered systems, frequently from a network-based perspective of systems science. I collaborate regularly on problems in computational biology, computational neuroscience and, most recently, AI-assisted chemistry and materials science. I have published over one hundred articles, frequently with students and other coauthors, and several books on the topic of network analysis.
 
